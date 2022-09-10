@@ -1,0 +1,9 @@
+{
+  "name": "@christianascone/prettier-config-web",
+  "version": "1.0.0",
+  "description": "My personal prettier configuration for web projects (html, css, javascript, typescript)",
+  "main": "index.js",
+  "repository": "git@github.com:christianascone/Prettier-config-web.git",
+  "author": "Christian Ascone <ascone.christian@gmail.com>",
+  "license": "MIT"
+}
