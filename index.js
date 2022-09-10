@@ -6,6 +6,6 @@ const options = {
   semi: false,
   singleQuote: true,
   tabWidth: 2,
-  trailingComma: 'none
+  trailingComma: 'none'
 }
 module.exports = options
