@@ -1,6 +1,6 @@
 {
   "name": "@christianascone/prettier-config-web",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "description": "My personal prettier configuration for web projects (html, css, javascript, typescript)",
   "main": "index.js",
   "repository": {
